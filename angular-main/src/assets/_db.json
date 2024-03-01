@@ -1,0 +1,23 @@
+{
+    "members":
+    [
+        { "id":"123",
+          "cin":"1144778855",
+          "name":"Ahmed",
+          "createat":"12/12/2022",
+          "cv":"www.google.com",
+          "type":"teatcher"},
+        { "id":"124",
+          "cin":"01478526",
+          "name":"Ali ",
+          "createat":"12/12/2022",
+          "cv":"www.facebook.com",
+          "type":"teatcher"},
+        { "id":"125",
+          "cin":"01745526",
+          "name":"Saleh ",
+          "createat":"25/12/2022",
+          "cv":"www.intagram.com",
+          "type":"student"}
+    ]
+}
